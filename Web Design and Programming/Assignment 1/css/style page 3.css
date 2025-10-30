@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+}
+
+.top {
+    background-color: yellow;
+    height: 25vh;
+    
+}
+        .left {
+     float: left;
+    width: 25%;
+    height: 50vh;
+    margin: 0 0 25vh 0;
+    background: #eee;
+    text-align: center;
+}
+.right {
+    float: right;
+    width: 25%;
+    height: 50vh;
+    background: gray;
+    text-align: center;
+    
+}
+
+.center{
+    float: left;         
+    width: 50%;           
+    height:50vh;
+    background: rgba(red, green, blue, alpha);
+    text-align: center;
+
+}
+
+.bottom{
+    background-color: aqua;
+    height: 25vh;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    
+}

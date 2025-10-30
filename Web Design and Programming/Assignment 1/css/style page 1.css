@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+h1{
+  text-align: center;
+  margin: 20px 0;
+}
+ .left {
+  float: left;
+  width: 50%;
+  height: 772px;
+  background-color: green; 
+  text-align: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+
+.right {
+  float: right;
+  width: 50%;
+  height: 772px;
+  background-color: yellow; 
+  text-align: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
+    .center{
+  float: calc(center);
+  width: 50%;
+  height: 772px;
+  background-color: red; 
+  text-align: center;
+  padding: 20px;
+  box-sizing: border-box;
+    } 
